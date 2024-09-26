@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2979575c17adbe846ac16795a02d9089, type: 3}
+  m_Name: FirstDialogue
+  m_EditorClassIdentifier: 
+  textLine:
+  - "Corren rumores en el pueblo de avistamientos de seres extra\xF1os por esta caba\xF1a."
+  - "Los vecinos est\xE1n preocupados, ya que sus vidas podr\xEDan correr peligro."
+  - "Pero aqu\xED estoy yo, y mi perro Sky, para resolver este misterio."
+  - "<wave>\xA1Vamos, Sky!</wave> Nos espera una gran aventura. "

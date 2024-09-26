@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2979575c17adbe846ac16795a02d9089, type: 3}
+  m_Name: Doctor1
+  m_EditorClassIdentifier: 
+  textLine:
+  - "<shake>\xBF\xBF\xBF\xA1\xA1\xA1QU\xC9 CREES QUE EST\xC1S HACIENDO!!!???</shake>"
+  - "Si colocas el caparaz\xF3n y el ojo en el altar, mi querida bestia <shake>MORIR\xC1</shake>..."
+  - "Seg\xFAn los escritos, la segunda vez que se realiza el ritual, las bestias
+    desaparecer\xE1n."
+  - "Y yo ya lo realiz\xE9 una vez, por eso escond\xED los objetos, para que nadie
+    lo volviese a realizar."
